@@ -1,9 +1,13 @@
 # Blind75
 ###### Keeping track of my leetcode progress 
 
-- [ ] Task title ~3d #type @name yyyy-mm-dd 
-- [ ] Task title ~3d #type @name yyyy-mm-dd 
-- [ ] Task title ~3d #type @name yyyy-mm-dd 
-- [ ] Task title ~3d #type @name yyyy-mm-dd 
-- [ ] - [ ] Task title ~3d #type @name yyyy-mm-dd 
-- [ ] - [ ] Task title ~3d #type @name yyyy-mm-dd 
+- [ ] Array 
+- [ ] Binary
+- [ ] Dynamic Programming
+- [ ] Graph
+- [ ] Interval
+- [ ] Linked List
+- [ ] Matrix
+- [ ] String
+- [ ] Tree
+- [ ] Heap
