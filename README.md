@@ -11,3 +11,8 @@
 - [ ] String
 - [ ] Tree
 - [ ] Heap
+
+```Python
+   if finished == True:
+        offer = True
+```
