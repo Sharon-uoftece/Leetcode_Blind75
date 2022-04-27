@@ -13,6 +13,6 @@
 - [ ] Heap
 
 ```Python
-   if finished == True:
-        offer = True
+if finished == True:
+   offer = True
 ```
