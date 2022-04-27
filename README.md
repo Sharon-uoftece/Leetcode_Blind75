@@ -1,2 +1,2 @@
 # Blind75
-Leetcode Blind 75 
+## Keeping track of my leetcode progress 
