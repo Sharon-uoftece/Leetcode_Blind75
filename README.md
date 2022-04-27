@@ -1,8 +1,8 @@
 # Blind75
 ###### Keeping track of my leetcode progress 
 
-- [ ] Array 
-- [ ] Binary
+- [ ] # Array 
+- [ ] # Binary
 - [ ] Dynamic Programming
 - [ ] Graph
 - [ ] Interval
