@@ -12,6 +12,8 @@
 - [ ] Tree
 - [ ] Heap
 
+***
+
 ```Python
 if finishedBlind75 == True:
    offer = True
