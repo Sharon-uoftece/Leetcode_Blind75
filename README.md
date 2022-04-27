@@ -1,5 +1,4 @@
-To-do List
----
+#To-do List
 
 _Keeping track of my leetcode progress_
 
@@ -14,8 +13,7 @@ _Keeping track of my leetcode progress_
 - [ ] Tree
 - [ ] Heap
 
-Motivation 
----
+#Motivation 
 
 ```Python
 if finishedBlind75 == True:
