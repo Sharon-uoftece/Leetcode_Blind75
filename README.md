@@ -3,8 +3,11 @@
 _Keeping track of my leetcode progress_
 
 - [ ] Array 
-- [ ] [two sum](https://leetcode.com/problems/two-sum/)
-- [ ] Binary
+   - [ ] [two sum](https://leetcode.com/problems/two-sum/)
+   - [ ] [two sum](https://leetcode.com/problems/two-sum/)
+   - [ ] [two sum](https://leetcode.com/problems/two-sum/)
+   - [ ] [two sum](https://leetcode.com/problems/two-sum/)
+   - [ ] [two sum](https://leetcode.com/problems/two-sum/)
 - [ ] Dynamic Programming
 - [ ] Graph
 - [ ] Interval
