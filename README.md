@@ -1,6 +1,6 @@
-# To-do List
 
-_Keeping track of my leetcode progress_
+
+# _Keeping track of my leetcode progress_
 
 ## Array 
    - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
