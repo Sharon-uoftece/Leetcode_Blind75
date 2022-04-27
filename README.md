@@ -1,4 +1,4 @@
-# **Blind75**
+# Blind75
 ###### _Keeping track of my leetcode progress_
 
 - [ ] Array 
