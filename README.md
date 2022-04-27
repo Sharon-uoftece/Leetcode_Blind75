@@ -13,7 +13,7 @@ _Keeping track of my leetcode progress_
    - [ ] [3 Sum](https://leetcode.com/problems/3sum/)
    - [x] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
   
-***
+---
 
 ### Dynamic Programming
 ### Graph
