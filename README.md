@@ -12,7 +12,7 @@
 - [ ] Tree
 - [ ] Heap
 
----
+# Motivation ---
 
 ```Python
 if finishedBlind75 == True:
