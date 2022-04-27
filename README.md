@@ -43,4 +43,7 @@ if finishedBlind75 == True:
    offer = True
    money = True
    happy = True
+   satisfication = True
+   slacktime = True
+   haha = True
 ```
