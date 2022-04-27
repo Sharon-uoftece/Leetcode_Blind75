@@ -14,6 +14,7 @@
 
 ```Python
 if finishedBlind75 == True:
-   offer += 1
-   anxiety -= 1
+   offer = True
+   money = True
+   happy = True
 ```
