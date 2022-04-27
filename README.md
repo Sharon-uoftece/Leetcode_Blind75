@@ -15,7 +15,7 @@
   
 ## Binary
    - [ ] [sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)
-   - [ ] [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/
+   - [ ] [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)
    - [ ] [counting-bits](https://leetcode.com/problems/counting-bits/)
    - [ ] [missing-number](https://leetcode.com/problems/missing-number/)
    - [ ] [reverse-bits](https://leetcode.com/problems/reverse-bits/)
