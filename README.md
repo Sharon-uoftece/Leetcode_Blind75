@@ -13,6 +13,7 @@
 - [ ] Heap
 
 ```Python
-if finished == True:
-   offer = True
+if finishedBlind75 == True:
+   getOffer = True
+   anxiety = False
 ```
