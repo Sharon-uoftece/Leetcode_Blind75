@@ -14,6 +14,6 @@
 
 ```Python
 if finishedBlind75 == True:
-   getOffer = True
-   anxiety = False
+   offer += 1
+   anxiety -= 1
 ```
