@@ -3,15 +3,15 @@
 # _Keeping track of my leetcode progress_
 
 ## Array 
-   - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-   - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-   - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-   - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-   - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-   - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-   - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-   - [ ] [3 Sum](https://leetcode.com/problems/3sum/)
-   - [x] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
+   - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
+   - [x] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+   - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
+   - [ ] [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
+   - [x] [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)
+   - [ ] [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+   - [x] [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+   - [ ] [3sum](https://leetcode.com/problems/3sum/)
+   - [x] [container-with-most-water](https://leetcode.com/problems/container-with-most-water/)
   
 ## Binary
 
