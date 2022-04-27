@@ -1,5 +1,7 @@
-# Blind75
-###### _Keeping track of my leetcode progress_
+Blind75
+---
+
+## Keeping track of my leetcode progress
 
 - [ ] Array 
 - [ ] Binary
