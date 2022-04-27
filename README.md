@@ -13,8 +13,21 @@
    - [ ] [3 Sum](https://leetcode.com/problems/3sum/)
    - [x] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
   
+## Binary
 
 ## Dynamic Programming
+   - [x] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
+   - [ ] [coin-change](https://leetcode.com/problems/coin-change/)
+   - [ ] [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+   - [ ] [longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+   - [ ] [word-break/](https://leetcode.com/problems/word-break/)
+   - [x] [combination-sum-iv](https://leetcode.com/problems/combination-sum-iv/)
+   - [x] [house-robber](https://leetcode.com/problems/house-robber/)
+   - [ ] [house-robber-ii](https://leetcode.com/problems/house-robber-ii/)
+   - [ ] [decode-ways](https://leetcode.com/problems/decode-ways/)
+   - [x] [unique-paths](https://leetcode.com/problems/unique-paths/)
+   - [x] [jump-game](https://leetcode.com/problems/jump-game/)
+   
 ## Graph
 ## Interval
 ## Linked List
