@@ -40,9 +40,9 @@
    - [ ] [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
    - [ ] [number-of-islands](https://leetcode.com/problems/number-of-islands/)
    - [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-   ~~- [ ] [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
-   ~~- [ ] [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
-   ~~- [ ] [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+   ~~- [ ] [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)~~
+   ~~- [ ] [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)~~
+   ~~- [ ] [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)~~
     
 ## Interval (0/5)
    - [ ] [insert-interval](https://leetcode.com/problems/insert-interval/)
