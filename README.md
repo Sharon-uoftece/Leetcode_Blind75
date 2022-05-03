@@ -34,11 +34,11 @@
    - [x] [unique-paths](https://leetcode.com/problems/unique-paths/)
    - [x] [jump-game](https://leetcode.com/problems/jump-game/)
    
-## Graph (0/5) 
+## Graph (1/5) 
    - [ ] [clone-graph](https://leetcode.com/problems/clone-graph/)
    - [ ] [course-schedule](https://leetcode.com/problems/course-schedule/)
    - [ ] [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-   - [ ] [number-of-islands](https://leetcode.com/problems/number-of-islands/)
+   - [x] [number-of-islands](https://leetcode.com/problems/number-of-islands/)
    - [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
    - [ ] ~~alien-dictionary~~
    - [ ] ~~graph-valid-tree~~
