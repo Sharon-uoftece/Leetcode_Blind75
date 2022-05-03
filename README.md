@@ -1,9 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-## (20/69)
-### (6 locked) 
-
+## (20/69) ### (6 locked) 
 
 ## Array (7/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
