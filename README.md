@@ -1,6 +1,6 @@
 
 
-# _Keeping track of my leetcode progress_
+# _Keeping track of my leetcode progress_ (3 locked) (?/75)
 
 ## Array (7/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
@@ -34,15 +34,15 @@
    - [x] [unique-paths](https://leetcode.com/problems/unique-paths/)
    - [x] [jump-game](https://leetcode.com/problems/jump-game/)
    
-## Graph (0/7)
+## Graph (0/5) 
    - [ ] [clone-graph](https://leetcode.com/problems/clone-graph/)
    - [ ] [course-schedule](https://leetcode.com/problems/course-schedule/)
    - [ ] [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
    - [ ] [number-of-islands](https://leetcode.com/problems/number-of-islands/)
    - [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-   - [ ] [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
-   - [ ] [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
-   - [ ] [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+   ~~- [ ] [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
+   ~~- [ ] [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
+   ~~- [ ] [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
     
 ## Interval (0/5)
    - [ ] [insert-interval](https://leetcode.com/problems/insert-interval/)
