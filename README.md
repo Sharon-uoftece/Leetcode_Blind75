@@ -34,6 +34,15 @@
    - [x] [jump-game](https://leetcode.com/problems/jump-game/)
    
 ## Graph
+   - [ ] [clone-graph](https://leetcode.com/problems/clone-graph/)
+   - [ ] [course-schedule](https://leetcode.com/problems/course-schedule/)
+   - [ ] [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+   - [ ] [number-of-islands](https://leetcode.com/problems/number-of-islands/)
+   - [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+   - [ ] [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
+   - [ ] [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
+   - [ ] [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+   
 ## Interval
    - [ ] [insert-interval](https://leetcode.com/problems/insert-interval/)
    - [ ] [merge-intervals](https://leetcode.com/problems/merge-intervals/)
@@ -50,7 +59,23 @@
    - [ ] [reorder-list](https://leetcode.com/problems/reorder-list/)
    
 ## Matrix
+   - [ ] [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+   - [ ] [spiral-matrix](https://leetcode.com/problems/spiral-matrix/)
+   - [ ] [rotate-image](https://leetcode.com/problems/rotate-image/)
+   - [ ] [word-search](https://leetcode.com/problems/word-search/)
+
 ## String
+   - [ ] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+   - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
+   - [ ] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
+   - [ ] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
+   - [ ] [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
+   - [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
+   - [ ] [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)
+   - [ ] [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
+   - [ ] [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/)
+   
 ## Tree
 ## Heap
 
