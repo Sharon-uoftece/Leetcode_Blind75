@@ -3,7 +3,8 @@
 # _Keeping track of my leetcode progress_ 
 ### (20/69) (6 locked) 
 
-### Array (7/10)
+### Array 
+#### (7/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
    - [x] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
    - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
