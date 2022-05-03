@@ -1,8 +1,8 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (20/69) 
-> (6 locked) 
+> Completion: (20/69).
+> (6 locked).
 
 ## Array (7/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
