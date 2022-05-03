@@ -77,7 +77,24 @@
    - [ ] [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/)
    
 ## Tree
+   - [ ] [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+   - [ ] [same-tree](https://leetcode.com/problems/same-tree/)
+   - [ ] [invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
+   - [ ] [binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+   - [ ] [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+   - [ ] [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+   - [ ] [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/)
+   - [ ] [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+   - [ ] [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
+   - [ ] [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+   - [ ] [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+   - [ ] [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
+   - [ ] [add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+   
 ## Heap
+   - [ ] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+   - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
 
 # Motivation 
 
