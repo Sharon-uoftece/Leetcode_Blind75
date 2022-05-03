@@ -90,6 +90,7 @@
    - [ ] [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
    - [ ] [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
    - [ ] [add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+   - [ ] [word-search-ii](https://leetcode.com/problems/word-search-ii/)
    
 ## Heap
    - [ ] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
