@@ -1,6 +1,6 @@
 
 
-# _Keeping track of my leetcode progress_ (3 locked) (?/75)
+# _Keeping track of my leetcode progress_ (6 locked) (20/69)
 
 ## Array (7/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
@@ -44,29 +44,29 @@
    - [ ] ~~graph-valid-tree~~
    - [ ] ~~number-of-connected-components-in-an-undirected-graph~~
     
-## Interval (0/5)
+## Interval (1/3)
    - [ ] [insert-interval](https://leetcode.com/problems/insert-interval/)
-   - [ ] [merge-intervals](https://leetcode.com/problems/merge-intervals/)
+   - [x] [merge-intervals](https://leetcode.com/problems/merge-intervals/)
    - [ ] [non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-   - [ ] [meeting-rooms](https://leetcode.com/problems/meeting-rooms/)
-   - [ ] [meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)
+   - [ ] ~~meeting-rooms~~
+   - [ ] ~~meeting-rooms-ii~~
   
-## Linked List (0/6)
+## Linked List (2/6)
    - [ ] [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
    - [ ] [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
-   - [ ] [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+   - [x] [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
    - [ ] [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-   - [ ] [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+   - [x] [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
    - [ ] [reorder-list](https://leetcode.com/problems/reorder-list/)
    
-## Matrix (0/4)
+## Matrix (1/4)
    - [ ] [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
    - [ ] [spiral-matrix](https://leetcode.com/problems/spiral-matrix/)
    - [ ] [rotate-image](https://leetcode.com/problems/rotate-image/)
-   - [ ] [word-search](https://leetcode.com/problems/word-search/)
+   - [x] [word-search](https://leetcode.com/problems/word-search/)
 
-## String (0/10)
-   - [ ] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+## String (1/9)
+   - [x] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
    - [ ] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
@@ -75,18 +75,18 @@
    - [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
    - [ ] [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)
    - [ ] [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
-   - [ ] [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/)
+   - [ ] ~~encode-and-decode-strings~~
    
-## Tree (0/14)
+## Tree (3/14)
    - [ ] [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-   - [ ] [same-tree](https://leetcode.com/problems/same-tree/)
+   - [x] [same-tree](https://leetcode.com/problems/same-tree/)
    - [ ] [invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
    - [ ] [binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-   - [ ] [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+   - [x] [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
    - [ ] [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
    - [ ] [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/)
    - [ ] [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-   - [ ] [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
+   - [x] [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
    - [ ] [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
    - [ ] [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
    - [ ] [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
