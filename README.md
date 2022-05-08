@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (22/69)
+> Completion: (23/69)
 
 ---
 
