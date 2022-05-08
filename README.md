@@ -30,7 +30,7 @@
 
 ## Dynamic Programming (6/11)
    - [x] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
-   - [ ] [coin-change](https://leetcode.com/problems/coin-change/)
+   - [x] [coin-change](https://leetcode.com/problems/coin-change/)
    - [x] [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
    - [x] [longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)
    - [ ] [word-break](https://leetcode.com/problems/word-break/)
