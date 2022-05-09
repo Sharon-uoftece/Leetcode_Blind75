@@ -11,7 +11,7 @@
    - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
    - [x] [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
    - [x] [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)
-   - [ ] [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/))
+   - [ ] [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)
    - [x] [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
    - [x] [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
    - [ ] [3sum](https://leetcode.com/problems/3sum/)
