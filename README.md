@@ -28,7 +28,7 @@
 
 ---
 
-## Dynamic Programming (6/11)
+## Dynamic Programming (7/11)
    - [x] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
    - [x] [coin-change](https://leetcode.com/problems/coin-change/)
    - [x] [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
