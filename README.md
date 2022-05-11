@@ -4,6 +4,7 @@
 > Completion: (25/69)
 
 ---
+![Smile] (https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-shockingly-large-business-behind-the-iconic-smiley-face-11559058457&psig=AOvVaw3mV5fNTucPeiANXwOWvGjO&ust=1652321066910000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID1u-St1vcCFQAAAAAdAAAAABAD)
 
 ## Array (8/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
