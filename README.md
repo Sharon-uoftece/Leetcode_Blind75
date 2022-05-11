@@ -6,6 +6,19 @@
 ---
 ![Smile](https://s.wsj.net/public/resources/images/B3-EC440_CTM02__1000V_20190528110311.jpg)
 
+---
+## Motivation 
+
+```Python
+if finishedBlind75 == True:
+   offer = True
+   money = True
+   happy = True
+   satisfication = True
+   slacktime = True
+   haha = True
+```
+
 ## Array (8/10)
    - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
    - [x] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -119,17 +132,3 @@
    - [ ] [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
    - [ ] [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
    - [ ] [find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/)
-
----
-
-## Motivation 
-
-```Python
-if finishedBlind75 == True:
-   offer = True
-   money = True
-   happy = True
-   satisfication = True
-   slacktime = True
-   haha = True
-```
