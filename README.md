@@ -100,7 +100,7 @@ if finishedBlind75 == True:
    - [x] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
-   - [ ] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
+   - [x] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
    - [ ] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
    - [ ] [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
    - [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
