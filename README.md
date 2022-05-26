@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (25/69)
+> Completion: (26/69)
 
 ---
 ![Smile](https://s.wsj.net/public/resources/images/B3-EC440_CTM02__1000V_20190528110311.jpg)
@@ -96,7 +96,7 @@ if finishedBlind75 == True:
 
 ---
 
-## String (1/9)
+## String (2/9)
    - [x] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
