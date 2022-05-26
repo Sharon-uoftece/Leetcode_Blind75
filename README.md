@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (26/69)
+> Completion: (27/69)
 
 ---
 ![Smile](https://s.wsj.net/public/resources/images/B3-EC440_CTM02__1000V_20190528110311.jpg)
@@ -101,7 +101,7 @@ if finishedBlind75 == True:
    - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
    - [x] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
-   - [ ] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
+   - [x] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
    - [ ] [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
    - [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
    - [ ] [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)
