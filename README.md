@@ -4,9 +4,6 @@
 > Completion: (27/69)
 
 ---
-![Smile](https://s.wsj.net/public/resources/images/B3-EC440_CTM02__1000V_20190528110311.jpg)
-
----
 ## Motivation 
 
 ```Python
@@ -111,7 +108,7 @@ if finishedBlind75 == True:
 ---
 
 ## Tree (3/14)
-   - [ ] [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+   - [x] [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
    - [x] [same-tree](https://leetcode.com/problems/same-tree/)
    - [ ] [invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)
    - [ ] [binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
