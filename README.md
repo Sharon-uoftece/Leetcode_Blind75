@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (35/69)
+> Completion: (36/69)
 
 ---
 ## Motivation 
@@ -93,14 +93,14 @@ if finishedBlind75 == True:
 
 ---
 
-## String (3/9)
+## String (4/9)
    - [x] [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    - [ ] [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [ ] [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)
    - [x] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
    - [x] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
    - [ ] [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
-   - [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
+   - [x] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
    - [ ] [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)
    - [ ] [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
    - [ ] ~~encode-and-decode-strings~~
