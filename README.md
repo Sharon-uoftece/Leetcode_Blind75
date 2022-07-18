@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (34/69)
+> Completion: (35/69)
 
 ---
 ## Motivation 
@@ -16,8 +16,8 @@ if finishedBlind75 == True:
    haha = True
 ```
 
-## Array (8/10)
-   - [ ] [two-sum](https://leetcode.com/problems/two-sum/)
+## Array (9/10)
+   - [x] [two-sum](https://leetcode.com/problems/two-sum/)
    - [x] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
    - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
    - [x] [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
