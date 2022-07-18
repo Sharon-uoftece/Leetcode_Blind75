@@ -1,7 +1,7 @@
 
 
 # _Keeping track of my leetcode progress_ 
-> Completion: (31/69)
+> Completion: (34/69)
 
 ---
 ## Motivation 
@@ -75,11 +75,11 @@ if finishedBlind75 == True:
 
 ---
 
-## Linked List (2/6)
-   - [ ] [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
-   - [ ] [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
+## Linked List (5/6)
+   - [x] [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
+   - [x] [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
    - [x] [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-   - [ ] [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+   - [x] [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
    - [x] [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
    - [ ] [reorder-list](https://leetcode.com/problems/reorder-list/)
 
